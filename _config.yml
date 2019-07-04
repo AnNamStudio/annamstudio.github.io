@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: An Nam
+title: AN NAM
 description: "AN NAM TEAM là một nhóm các bạn trẻ đầy đam mê và nhiệt huyết, yêu thích công nghệ và sự sáng tạo. Chúng tôi mong muốn tạo ra những sản phẩm tuyệt vời cho tất cả mọi người, cho một thế giới tốt đẹp hơn."
 analytics: UA-49278430-8 #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
