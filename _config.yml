@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: PEGASE
-description: "PEGASE TEAM is a group of young and enthusiastic people. Our team has endless passion with technology and creativity. We aspire to create great applications for you, for a better world and brighter futures."
+title: An Nam
+description: "AN NAM TEAM là một nhóm các bạn trẻ đầy đam mê và nhiệt huyết, yêu thích công nghệ và sự sáng tạo. Chúng tôi mong muốn tạo ra những sản phẩm tuyệt vời cho tất cả mọi người, cho một thế giới tốt đẹp hơn."
 analytics: UA-49278430-8 #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: ""
@@ -51,9 +51,11 @@ address:
     - 6/25/106/28 Dai Linh,
     - Trung Van, Nam Tu Liem, Ha Noi,
     - Viet Nam.
-email: pegase.studio@gmail.com
+email: annamstudio.vn@gmail.com
 tel: (+84)978945936
 
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "AN NAM TEAM là một nhóm các bạn trẻ đầy đam mê và nhiệt huyết, yêu thích công nghệ và sự sáng tạo. Chúng tôi mong muốn tạo ra những sản phẩm tuyệt vời cho tất cả mọi người, cho một thế giới tốt đẹp hơn."
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
@@ -106,9 +108,6 @@ clients:
     img: client03.png
   - name: VimeoPro
     img: client04.png
-
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "PEGASE TEAM is a group of young and enthusiastic people. Our team has endless passion with technology and creativity. We aspire to create great applications for you, for a better world and brighter futures."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
