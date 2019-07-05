@@ -1,24 +1,16 @@
 ---
 layout: post
-title: "Quoto: Beautiful Quotes Photos"
-date: 2019-04-20 05:10:25
+title: "Ra mắt trang thông tin của AN NAM STUDIO"
+date: 2019-06-28 05:10:25
 author: Admin
 categories:
-- quoto
-- application
-- quotes
-- photos
-- images
+- annam
 img: quoto_post.jpg
 thumb: quoto_thumb.png
 ---
 
-**[Quoto][applink]: The world's largest collection of quotations!**
+Hôm nay (28/06/2019), chúng tôi rất vui mừng thông báo về việc ra mắt trang thông tin chính thức của **[AN NAM STUDIO][weblink]**.  
+Đây sẽ là nơi cập nhật những thông tin mới nhất, những dự án đã, đang và sẽ được thực hiện bởi **[AN NAM STUDIO][weblink]**.  
+Đây cũng sẽ là nơi để mọi người có thể liên hệ, hợp tác hoặc chia sẻ, góp ý với **[AN NAM STUDIO][weblink]**.  
 
->A perfect combination of meaningful quotations and beautiful photos that created Quoto.
-
-With over 50,000 quotes and 800,000 beautiful photos, you will choose your own quotations and the most appropriate photos.
-
-**[Quoto][applink]** is now available to download on AppStore.
-
-[applink]: https://apps.apple.com/us/app/id1459504175
+[weblink]: https://annamstudio.github.io
