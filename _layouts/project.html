@@ -19,12 +19,12 @@ layout: default
         </div>
         <div class="col-lg-4 col-lg-offset-1">
             <div class="spacing"></div>
-            <h4>Project Details</h4>
+            <h4>Thông tin ứng dụng</h4>
             <div class="hline"></div>
-            <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <p><b>Ngày phát hành:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
             <p><b>Tags:</b> {{ page.tagged }}</p>
              
-            <p><b>Status:</b> {{ page.status }}</p>
+            <p><b>Trạng thái:</b> {{ page.status }}</p>
             
             {% if page.website %}
             <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>

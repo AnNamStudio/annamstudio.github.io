@@ -1,0 +1,29 @@
+---
+layout: project
+title:  "Kể truyện & Hát ru"
+slogan: "Truyện cổ tích & Hát ru cho bé"
+date:   2014-10-05 10:10:25
+author: AN NAM Studio
+categories:
+- project
+img: hat-ru-project.png
+thumb: hatru.png
+carousel:
+- hat-ru-01.png
+- hat-ru-02.png
+- hat-ru-03.png
+- hat-ru-04.png
+- hat-ru-05.png
+tagged: hát ru, kể truyện, truyện cổ tích
+status: Available on AppStore 
+website:
+appstorelink: https://apps.apple.com/app/id 901034741
+
+---
+
+“Kể truyện cổ tích & Hát ru cho bé” là ứng dụng tập hợp hàng ngàn câu truyện cổ tích đặc sắc, các bài thơ, bài hát ru nhẹ nhàng và sâu lắng dành cho bé. Mỗi tối, trước khi đi ngủ, các bé sẽ được nghe kể các câu truyện cổ tích rất hay và ý nghĩa, được nghe các hát ru với giọng ngâm rất nhẹ nhàng, đầm ấm của các cô, các chú …
+
+Nếu bạn đang có con nhỏ, nếu bạn không có thời gian đọc truyện có các bé mỗi tối thì hãy làm phong phú thêm tâm hồn trẻ thơ của các bé bằng các câu truyện cổ tích và các bài hát ru để các bé có được những giấc mơ thật đẹp cùng các bà tiên, các chàng hoàng tử và nàng công chúa ...
+
+Ứng dụng cũng tổng hợp các kênh video bổ ích, lý thú thuộc nhiều chủ đề như: Giáo dục, Khoa học, Động vật, Âm nhạc, Đồ chơi, Hoạt hình, ... Hứa hẹn sẽ là một trung tâm giải trí lành mạnh, bổ ích giúp các bé vừa học vừa chơi. 
+
